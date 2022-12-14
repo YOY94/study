@@ -2,6 +2,6 @@
 
 int  main(int  argc,  char*  argv[]) 
 {
-     std::cout  <<  42  <<  std::endl;
+     std::cout  <<  99  <<  std::endl;
     return  0;
     }
